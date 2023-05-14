@@ -5,11 +5,14 @@ body {
 
 #weather {
   padding: 30px 0;
+  position: relative;
+  top: 170px;
 }
 #weather .box {
   background-color: #6cafe6;
   height: 270px;
   border-radius: 13px;
+  width: 220px;
 }
 #weather .box h1, #weather .box h2 {
   color: white;
